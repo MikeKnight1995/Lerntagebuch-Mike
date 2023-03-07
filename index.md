@@ -1,7 +1,7 @@
 ---
-title: Lerntagebuch
+title: Lerntagebuch Mike Ritter
 ---
 
 ## Willkommen zu meinem Lerntagebuch
 
-Ich freue mich, dass Du da bist. Ich schreibe hier über meine Erfahrungen im Kurs **Bibliotheks- und Archivinformatik**.
+Müde Reisende*r, hoffentlich finden Sie bei meinem Lerntagebuch ein wenig Erholung für die grosse Quest vor uns.
