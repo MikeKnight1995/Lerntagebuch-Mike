@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch Mike Ritter
+Lerntagebuch Mike Ritter
 ---
 
 ## Willkommen zu meinem Lerntagebuch
