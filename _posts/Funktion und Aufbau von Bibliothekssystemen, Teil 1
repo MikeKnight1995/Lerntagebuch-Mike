@@ -6,8 +6,8 @@ Der Input mit BIBFRAME habe ich sehr spannend gefunden, da es mich an den neuen 
 
 Hier ist noch ein Schaubild für der neue Standard BIBFRAME:
 
+![image](https://github.com/MikeKnight1995/Lerntagebuch-Mike/assets/127213328/8614af17-1b7c-4b78-b579-0033888d5087)
  
-
 Als kleine Übung mussten wir die Unterschiede zwischen den beiden Datenformate MARC21 und Dublin Core anhand eines Beispiels anschauen. Dublin Core wäre zwar ohne Handbuch verständlich, dafür kann man MARC21 mehr Angaben machen.
 
 Bei der Konfiguration von Koha wurde uns erklärt, dass leider bisher keine Implementierung auf Codespaces gemacht werden konnte. Für die heutige Lektion sollte es aber keine allzu grossen Umstände bereiten. Ich wusste aber vor dem Unterricht nicht, dass Koha eine Open Source Software ist. Mit Netbiblio bin ich eher kommerzielle Bibliothekssysteme vertraut. Interessant fand ich, dass Koha regelmässig alle sechs Monate eine neue Version implementiert wird. Man kann also nicht von einem schlechten Programm reden, nur weil es Open Source und nicht kommerziell ist.
