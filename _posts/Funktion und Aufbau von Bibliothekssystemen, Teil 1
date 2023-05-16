@@ -1,0 +1,24 @@
+In diesem Unterrichtsblock behandeln wir zwei Themenblöcke, und zwar Metadatenstandards in Bibliotheken anhand von MARC21 und danach die praktische Konfiguration in Koha.
+
+Diesen Einstieg fand ich gut, da ich zwar in einer Bibliothek arbeite, aber eher selten ein neues Medium voll katalogisiere, habe ich eher wenig mit MARC21 direkt zu tun. Der Fakt mit den führenden Nullern fand ich spannend, dass es bei unserem Bibliothekssystem wichtig ist, ob eine Bibliothekskarte für ein Konto steht oder nur eine Partnerkarte ist. Als Partnerkarte braucht es bei der Registrierung diese Nullern und bei der Hauptkarte nicht. Dies hat mich gerade an diesen eher merkwürdigen Fakt erinnert.
+
+Der Input mit BIBFRAME habe ich sehr spannend gefunden, da es mich an den neuen Archivierungsstandard Records in Contexts erinnert hat. Dies ist Bestandteil meiner Bachelor-Thesis, deshalb bin ich an neue Standards gerade sehr interessiert. BIBFRAME würde die gleichen Daten normieren und somit falsche Angaben (Beispiel Namen falsch geschrieben) verhindern.
+
+Hier ist noch ein Schaubild für der neue Standard BIBFRAME:
+
+ 
+
+Als kleine Übung mussten wir die Unterschiede zwischen den beiden Datenformate MARC21 und Dublin Core anhand eines Beispiels anschauen. Dublin Core wäre zwar ohne Handbuch verständlich, dafür kann man MARC21 mehr Angaben machen.
+
+Bei der Konfiguration von Koha wurde uns erklärt, dass leider bisher keine Implementierung auf Codespaces gemacht werden konnte. Für die heutige Lektion sollte es aber keine allzu grossen Umstände bereiten. Ich wusste aber vor dem Unterricht nicht, dass Koha eine Open Source Software ist. Mit Netbiblio bin ich eher kommerzielle Bibliothekssysteme vertraut. Interessant fand ich, dass Koha regelmässig alle sechs Monate eine neue Version implementiert wird. Man kann also nicht von einem schlechten Programm reden, nur weil es Open Source und nicht kommerziell ist.
+
+Wir haben anschliessend ein Tutorial zu Koha gemeinsam durchgearbeitet. Den Input von einer Kommilitonin fand ich wichtig, dass Koha nur in Zusammenarbeit mit CORAL E-Medien verwalten kann. Für mich war es sehr spannend ein anderes Katalogisierungsprogramm kennenzulernen. Ein wertvolles Feature finde ich, dass Koha sich bei den jeweiligen Bibliotheken anpassen kann, sprich öffentliche oder wissenschaftliche Versionen. Wie auch bei Netbiblio kann man mit Koha verschiedene Benutzertypen vergeben.
+
+Um das Handling von Koha besser zu lernen haben wir noch eine Übung zur Erstellung eines Mediums und der dazugehörigen Ausleihe und Rückgabe gemacht. Die fiktive digitale Ausleihe war dabei sehr ähnlich wie bei Netbiblio, obwohl wahrscheinlich ist es bei fast allen Bibliothekssystemen so.  Ich finde es sehr gut, dass wir nachher die Übung kurz zusammen anschauten, da vielleicht nicht alle Kommiliton*innen in Bibliotheken arbeiten.
+
+Nach dem Unterricht habe ich mich nochmals ein wenig mit BIBFRAME auseinandergesetzt und erfahren, dass die Anwendung für Periodika zwar in BIBFRAME integriert wäre, aber mit MARC21 hat es mehrere Kategorien. Vielleicht wird dies aber noch ausgebessert.
+
+Die Links zu den Wikipedia-Artikel werde ich hier noch auflisten:
+
+https://de.wikipedia.org/wiki/BIBFRAME
+https://de.wikipedia.org/wiki/Records_in_Contexts
