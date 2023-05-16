@@ -1,0 +1,19 @@
+Der heutige Unterrichtsblock befasste sich mi OpenRefine. Aber bevor wir loslegen konnten, gab es ein kleines Problem, da ein vorheriger Unterrichtsblock krankheitshalber ausfallen musste und wir dafür einen neuen Termin suchen mussten.
+
+Zur Einführung haben wir uns bei der Library Carpentry Lessons umgeschaut und danach das passende Pendant für Archivinformatik Programming Historian Lessons. Obwohl das zweitere Programm weniger den Charakter von Workshops anbietet, sondern eher als Literaturquelle dienen kann. Interessant fand ich noch die Ausführung über Book Sprints, die Methode, wobei mehrere Personen an einem Buch zusammenschreiben, aber sich nur für den Start des Projekts selbst treffen müssen. Zum Handbuch IT in Bibliotheken haben wir diese Schreibtechnik kurz besprochen.
+
+Als Ergänzung zur vorherigen Lerneinheit haben wir noch das Timeout bei Codespaces auf die Länge der Unterrichtsblöcke erhöht. So muss man nicht ständig die Maus im Programm bewegen.
+
+Danach gingen wir über zu OpenRefine. Dieses Programm vermarktet sich selbst, als ein Programm, welches unübersichtliche Daten zu einem überschaubareren Produkt darzustellen. Bei Codespaces haben wir nun eine vorinstallierte Datei zu OpenRefine geöffnet.
+
+Spannend fand ich den Part zu Open Source Software, da die richtige Einschätzung zum passenden Programm meiner Meinung nach wichtig ist. Ich denke, dass OpenRefine anhand ihrer Umfrage einen guten Rückhalt bei ihrer Nutzerschaft und dadurch eine gute Legitimität.
+
+MARC21 wurde bei den unterstützten Formaten bereits angekündigt, dass wir uns in Zukunft noch genauer damit auseinandersetzen werden. Um solche Dateien analysieren zu können braucht OpenRefine aber die Hilfe von MarcEdit. Interessant war auch noch zu erfahren, wo OpenRefine angewendet wird, wie zum Beispiel die Vereinheitlichung und Bereinigung von Datenmengen und auch deren Abgleich mit Normdaten.
+
+Interessanter kleiner Fakt, dass OpenRefine einmal Google gehörte. Dessen Omnipräsenz ist schon unschlagbar. 
+
+Nach diesem kurzen Exkurs haben wir uns wieder der Datei in Codespaces zugewendet. Da ich persönlich Excel nur beruflich nutze und privat sowieso selten Tabellen abspeichere, fand ich es aber gut zu wissen, dass mit OpenRefine auch solche Darstellungen möglich sind. Und der erste Fall von Übersichtlichkeit erkannt ich schon, als gesagt wurde, dass OpenRefine nicht eine unendliche Liste anzeigt. Im Gegensatz zu Excel, wo grosse Listen somit sehr unübersichtlich werden. Beim Beispiel mit der Sprache hatten wir sogleich ein Problem betreffend die Homogenisierung der Daten. Sehr benutzerfreundlich empfand ich, dass man auch dort die Änderungshistorie nachschauen kann.
+
+Spannend fand ich bei der Namensfilterung für die Autor*innen, dass dort die verschiedenen Schreibweisen erkannt und zugewiesen werden. Bei unserer Bibliothek weiss ich, dass dieses Problem bei unserem System noch auftreten kann. Die kleinen Fingerübungen empfand ich als sehr gut, somit konnte man sich mit dem Programm besser auseinandersetzen.
+
+Die letzte Übung mit den Reconciliation Services fand ich gut, da ich eine Harmonisierung von solch grossen Datenmengen sehr wichtig finde.
