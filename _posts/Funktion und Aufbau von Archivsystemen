@@ -1,0 +1,17 @@
+Die heutige Lektion befasst sich mit Archivsystemen. Das Äquivalent zu MARC 21 ist ISAD(G) und EAD. Dazu werden wir auch das System ArchivesSpace genauer anschauen. Zum Abschluss werden wir wie auch bei den Bibliothekssystemen einen Marktüberblick erhalten. Zu Beginn wurde auch nochmals geklärt, dass wir bisher noch keinen Blogeintrag zu einer Übung erstellen mussten.
+
+Interessant fand ich die, dass die Archivsysteme sich an die alten Findbücher und Zettelkästen orientiert haben. Dies erinnerte mich gerade an meine Zeit im Staatsarchiv Basellandschaft, da dort noch die alten Orts- und Flurnamenbücher damals noch nicht digital archiviert waren. Könnte einmal meine ehemaligen Arbeitskolleg*innen fragen, ob geplant ist, dies irgendeinmal zu machen.
+
+Ein Problem der Archivwelt, im Gegensatz zu Bibliotheken, ist das es weniger Normen gibt und auch viele Spezialarchive existieren. So sind auch die Anforderungen an die Archivsysteme nicht einheitlich und somit anspruchsvoller zu programmieren.
+
+Die Grenzen von ISAD(G) wurden uns erklärt. So können einzelne Datensätze nur im Kontext verständlich werden. Ebenso ist die Tektonik eindimensional. Ein Problem, welches man beim Erstellen von ISAD(G) vielleicht noch nicht absehen konnte. Es hat keine Vorgaben zur digitalen Langzeitarchivierung. Dies soll mit einem neuen Standard «Records in Contexts» behoben werden. Dieser Standard setzt die Archivalien in ihren Kontext und soll eine breitgefächerte Archivierung ermöglichen.
+
+Als kleine Übung haben wir zwei Archivkataloge miteinander verglichen. Die Erkenntnisse waren interessant. Das vorhin erwähnte Fehlen des Kontexts wurde wieder als Problem erwähnt. Ebenso fehlt die Innovation von neuen Anwendungsmöglichkeiten. Beim Basler Beispiel hat man zwar einen neuen Webauftritt implementiert, aber die Katalogsuche wurde nicht modifiziert.
+
+Danach haben wir im Schnelldurchlauf kurz EAD angeschaut. Daten in EAD können besser exportiert und mit anderen Systemen ausgetauscht werden. Neben «Records in Contexts» gibt es diverse Projekte, um eine Öffnung von Archiven voranzutreiben. Wikidata verknüpft Online-Findmittel zu diversen Themen.
+
+Anschliessend haben wir uns ArchivesSpace gewidmet. Dieses Programm wird hauptsächlich in den USA verwendet, aber ist für die internationale Anwendung gedacht. Das Herunterladen der Linux-Console war zwar spannend, aber für mich zu technisch, wenn ich ehrlich sein darf . Wir haben dort Repositories mit eigenen Datensätzen erstellt. Als Übung konnten wir diese Datensätze selbst erstellen und als Bibliothekar muss ich zugeben, dass die Handhabung eines Archivsystems zwar ungewohnt, aber gleichzeitig vertraut vorkommt. Die Erstellung der Datensätze war zwar an sich verständlich, dennoch war mir am Anfang nicht klar, welche Felder als Pflichtfelder ausgefüllt werden müssen. Dies war aber eine gute Übung und der Vergleich mit AtoM finde ich eine spannende Übung. Dazu mehr im nächsten Blogeintrag. Mal schauen, welches Programm eher ansprechend für Bibliothekspersonal ist.
+
+Die Links zu den Wikipedia-Artikel werde ich hier noch auflisten:
+
+https://de.wikipedia.org/wiki/Flurname
