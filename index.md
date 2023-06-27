@@ -8,4 +8,4 @@ Müder Reisender, hoffentlich finden Sie bei meinem Lerntagebuch ein wenig Erhol
 
 Im achten und somit letzten Semester, haben wir als Klasse das Modul Bibliotheks- und Archivinformatik. In diesem Modul ist die Lernkontrolle ein Lerntagebuch zu erstellen.
 
-"Die männliche Form hier bei der Anrede soll bitte nicht als Ausgrenzung von Frauen oder anderen Geschlechterrollen interpretiert werden. Es ist eher eine Anspielung an Videogames-Helden."
+_Die männliche Form hier bei der Anrede soll bitte nicht als Ausgrenzung von Frauen oder anderen Geschlechterrollen interpretiert werden. Es ist eher eine Anspielung an Videogames-Helden._
