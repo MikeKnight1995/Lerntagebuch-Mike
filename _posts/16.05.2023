@@ -1,3 +1,5 @@
+##Suchmaschinen und Discovery-Systeme
+
 Heute möchten wir nach dem Besprechen von Bibliotheks-und Archivsystemen und die Transformation der jeweiligen Daten, das Verfügbarmachen in sogenannten Discovery-Systemen anschauen. Heute wird VuFind, ein Online-Katalog, im Vordergrund stehen. Dieser Katalog wird international sehr genutzt und dient daher als gutes Beispiel.
 
 Die Installation von VuFind wurde wegen technischen Problemen bei Codespace überflogen. Solr wurde uns dafür als Suchmaschine vorgestellt. Ein Suchindex wie Solr speichert die Daten weniger als eine Datenbank, denn wie der Name bereits sagt, steht die Suche im Vordergrund . Es kann aber gewisse Datenfelder nur mit gewissen Datensätzen festgelegt werden, zum Beispiel nur Zahlensätze bei Feldern zum Datum.
