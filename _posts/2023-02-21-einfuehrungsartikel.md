@@ -1,4 +1,6 @@
-##In einem Kopf vor unserem Modul...
+|                   title            |    date       |
+| ---------------------------------- | ------------- |
+| In einem Kopf vor unserem Modul... | 2023-02-21    |
 
 Als ersten Eintrag möchte ich hier gerne von meinem Vorwissen und meinen Erwartungen zum Thema Bibliotheks- und Archivinformatik schreiben:
 
