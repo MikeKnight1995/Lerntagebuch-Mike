@@ -1,6 +1,6 @@
----
-Lerntagebuch Mike Ritter
----
+|        title              |
+| ------------------------- |
+| Lerntagebuch Mike Ritter  |
 
 ## Willkommen zu meinem Lerntagebuch
 
