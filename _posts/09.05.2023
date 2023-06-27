@@ -1,3 +1,5 @@
+##Metadaten modellieren und Schnittstellen nutzen
+
 In der heutigen Lerneinheit werden wir die Modellierung von Metadaten und die Nutzung von Schnittstellen anschauen. Wir werden heute auch auf das Programm MarcEdit eingehen und weitere Tools für die Metadatentransformation kennenlernen. Am Anfang gab es einen zusätzlichen Input zur OAI-PMH Schnittstelle, Diamond Open Access, ORCID, ResearchGate und Zweitveröffentlichungsrecht. Diese Zusatzinformationen fand ich noch sehr spannend.
 
 Die drei weitverbreitetsten Austauschprotokolle für Metadaten sind Z39.50, SRU und OAI-PMH. Als kleine Übung werden wir mithilfe vom VuFindHarvest Metadaten von Koha, ArchivesSpace und DSpace einsammeln. Dies war für mich eine gute Wiederholung der bereits angeschauten Lerneinheiten. Ein Kommilitone hat eine spannende These eingeworfen, dass Crosswalks vermutlich eher noch mehr Chaos verursachen, als es zu vermindern. Es kann selbstverständlich abschreckend erscheinen, wenn wir uns dem Problem bewusst sind, dass Metadaten bereits in ihren vorgesehen Programmen Fehler erhalten können. Bei einer Übersetzung dieser Metadaten können daher mehr Fehler auftauchen.
