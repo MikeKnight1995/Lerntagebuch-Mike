@@ -1,4 +1,6 @@
-##Funktion und Aufbau von Archivsystemen
+|                    title                |    date       |
+| --------------------------------------- | ------------- |
+| Funktion und Aufbau von Archivsystemen  | 2023-04-25    |
 
 Die heutige Lektion befasst sich mit Archivsystemen. Das Äquivalent zu MARC 21 ist ISAD(G) und EAD. Dazu werden wir auch das System ArchivesSpace genauer anschauen. Zum Abschluss werden wir wie auch bei den Bibliothekssystemen einen Marktüberblick erhalten. Zu Beginn wurde auch nochmals geklärt, dass wir bisher noch keinen Blogeintrag zu einer Übung erstellen mussten.
 
@@ -16,4 +18,4 @@ Anschliessend haben wir uns ArchivesSpace gewidmet. Dieses Programm wird haupts�
 
 Die Links zu den Wikipedia-Artikel werde ich hier noch auflisten:
 
-(https://de.wikipedia.org/wiki/Flurname)
+[Flurname](https://de.wikipedia.org/wiki/Flurname)
