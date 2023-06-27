@@ -1,4 +1,6 @@
-##Was bleibt...
+|     title     |     date      |
+| ------------- | ------------- |
+| Was bleibt... | 2023-05-30    |
 
 Zum Abschied bleibt noch der letzte Eintrag zu meinen Lernerfahrungen des Moduls Bibliotheks- und Archivinformatik. Grundsätzlich muss ich sagen, dass ich das Modul sehr spannend und informativ fand.
 
