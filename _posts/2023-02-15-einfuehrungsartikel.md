@@ -5,7 +5,7 @@ date: 2023-02-15
 
 Als ersten Eintrag möchte ich hier gerne von meinem Vorwissen und meinen Erwartungen zum Thema Bibliotheks- und Archivinformatik schreiben:
 
-Als Bibliothekar in der GGG Stadtbibliothek Basel habe ich täglich mit Bibliotheksinformatik zu tun. Wir gebrauchen das Programm „Netbiblio“ für unsere Katalogisierung, als auch für die Registrierung und Verwaltung unserer Kundendaten. Als Bibliothekar mit grösstenteils Thekendienst und somit auch Kundenbetreuung bearbeite ich hauptsächlich die Kundendaten und die neueingekauften Medien für mein Lektorat Geschichte. Diese Medien müssen aber von mir nur freigegeben und auf allfällige Fehler überprüft werden. Dies, da der Schwerpunkt der Katalogisierung von unserem Medienservice übernommen wird.
+Als Bibliothekar in der GGG Stadtbibliothek Basel habe ich täglich mit Bibliotheksinformatik zu tun. Wir gebrauchen das Programm „Netbiblio“ für unsere Katalogisierung, als auch für die Registrierung und Verwaltung unserer Kundendaten. Als Bibliothekar mit grösstenteils Thekendienst und somit auch Kundenbetreuung bearbeite ich hauptsächlich die Kundendaten und die neueingekauften Medien für mein Lektorat Geschichte. Diese Medien müssen von mir hauptsächlich freigegeben und auf allfällige Fehler überprüft werden. Dies, da der Schwerpunkt der Katalogisierung von unserem Medienservice übernommen wird.
 
 Im Jahr 2014/15 habe ich ein Praktikum im Staatsarchiv Basellandschaft getätigt. Dort hatte ich einen Einblick in Archivinformatik. Aber leider muss ich zugeben, dass ich mich nicht mehr viel daran erinnern kann. Ich habe aber gesehen, dass sie in der Zwischenzeit ihr System geupdated haben. Auf der Online-Plattform „Memory.bl“ haben sie ihr Angebot für die Kundschaft zugänglich gemacht.
 
